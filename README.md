@@ -14,6 +14,25 @@ Two datasets have been provided for demonstration:
 - [Small Dataset](CS170_Spring_2022_Small_data__93.txt)
 - [Large Dataset](CS170_Spring_2022_Large_data__93.txt)
 
+## Running the Feature Selection Toolkit
+
+### Prerequisites
+- Have **Python** installed on your machine.
+
+### Instructions
+1. Clone this repository.
+2. Navigate to the project directory in your terminal or command prompt.
+3. Execute the toolkit using the following command:
+
+\```
+python feature_selection_toolkit.py
+\```
+
+4. When prompted:
+- Enter the dataset filename (e.g., `CS170_Spring_2022_Small_data__93.txt`).
+- Enter `1` for Forward Selection or `2` for Backward Elimination.
+5. Results will be displayed in terminal 
+
 ## Algorithms
 
 ### 1. Forward Selection
