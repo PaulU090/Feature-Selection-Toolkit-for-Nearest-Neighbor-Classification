@@ -2,8 +2,9 @@
 A Python toolkit for optimized feature selection in Nearest Neighbor classification using greedy search algorithms (Forward Selection &amp; Backward Elimination), combined with Euclidean distance and leave-one-out validation.
 
 ## Overview
+Machine learning models often deal with datasets that contain a multitude of features. However, not all features are equally important, and some may even be redundant or irrelevant, leading to overfitting, increased computational cost, and decreased model interpretability.
 
-This project provides a comprehensive toolkit for optimizing feature selection in machine learning models using Nearest Neighbor classification. Through the implementation of greedy search algorithms, Forward Selection and Backward Elimination, it aims to enhance classification accuracy. The toolkit leverages Euclidean distance metric and the leave-one-out validation technique for the optimization process.
+This project provides a comprehensive toolkit for optimizing feature selection in machine learning models using Nearest Neighbor classification. Developed as part of the CS 170 - Introduction to Artificial Intelligence course at the University of California, Riverside, it implements greedy search algorithms, Forward Selection and Backward Elimination, aiming to enhance classification accuracy. The toolkit leverages the Euclidean distance metric and the leave-one-out validation technique for the optimization process.
 
 
 ## Datasets
