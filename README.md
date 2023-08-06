@@ -24,9 +24,7 @@ Two datasets have been provided for demonstration:
 2. Navigate to the project directory in your terminal or command prompt.
 3. Execute the toolkit using the following command:
 
-\```
-python feature_selection_toolkit.py
-\```
+`python feature_selection_toolkit.py`
 
 4. When prompted:
 - Enter the dataset filename (e.g., `CS170_Spring_2022_Small_data__93.txt`).
